@@ -1,0 +1,2 @@
+# uwu
+elimination server resourcepack
